@@ -38,4 +38,4 @@ Offers executives a clear snapshot of return trends and profitability metrics
 Informs targeted strategies by revealing customer segment contributions.
 
 
-https://github.com/Akmal-s/Tableau-Project/blob/main/Screenshot%202025-05-12%20120023.png
+Preview : ![Dashboard Preview](https://github.com/Akmal-s/Tableau-Project/blob/main/Snapshot%20of%20Tableau%20dashboard.png)
