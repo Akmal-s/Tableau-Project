@@ -36,3 +36,6 @@ Guides inventory and logistics planning based on state-wise demand
 Offers executives a clear snapshot of return trends and profitability metrics
 
 Informs targeted strategies by revealing customer segment contributions.
+
+
+https://github.com/Akmal-s/Tableau-Project/blob/main/Screenshot%202025-05-12%20120023.png
